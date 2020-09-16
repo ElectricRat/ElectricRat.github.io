@@ -12,8 +12,19 @@ When installing Flutter, take note of the directory it is installed to.
 
 ### 5. Set up Android Studio to run Bowfolios
 
+<<<<<<< HEAD
 In Android Studio, navigate to Languages & Frameworks->Flutter in the settings tab.
 Select the location of the flutter SDK.
+=======
+ - in Android Studio, select "open existing project" and choose the top-level Bowfolios directory. ("SigmaAlphaSierra")
+ - When the project opens, select file > settings > plugins, find "Flutter" on the list, and click "install". When prompted, restart the IDE.
+ - Select file > settings > Languages and Frameworks > Flutter. In the empty "Flutter SDK Path" field, enter the directory in which you installed Flutter.
+ - Select lib > Main.dart from the project navigation window. On the on-screen prompt, select "get dependencies", or run "flutter pub get" from the command line.
+ - Select the AVD manager icon (top right - little phone with Android logo) to open the AVD manager. Click "add new device", "pixel 2", and "pie (API 28)". Wait for the pixel 2 device and pie API to download. 
+ - Select the installed Android Virtual Device on the taskbar in Android Studio
+ - Run the application with the "run" icon (play button) on the taskbar in Android Studio
+ 
+>>>>>>> bb64296fd249cd3e57065b0700961126d452c8c1
 
 ### 6. Run Bowfolios
 
