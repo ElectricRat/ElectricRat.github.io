@@ -19,6 +19,8 @@ When installing Flutter, take note of the directory it is installed to.
  - Select file > settings > Languages and Frameworks > Flutter. In the empty "Flutter SDK Path" field, enter the directory in which you installed Flutter.
  - Select lib > Main.dart from the project navigation window. On the on-screen prompt, select "get dependencies", or run "flutter pub get" from the command line.
  - Select the AVD manager icon (top right - little phone with Android logo) to open the AVD manager. Click "add new device", "pixel 2", and "pie (API 28)". Wait for the pixel 2 device and pie API to download. 
+ - Select the installed Android Virtual Device on the taskbar in Android Studio
+ - Run the application with the "run" icon (play button) on the taskbar in Android Studio
  
 
 ### 6. Run Bowfolios
