@@ -16,7 +16,7 @@ When installing Flutter, take note of the directory it is installed to.
  - When the project opens, select file > settings > plugins, find "Flutter" on the list, and click "install". When prompted, restart the IDE.
  - Select file > settings > Languages and Frameworks > Flutter. In the empty "Flutter SDK Path" field, enter the directory in which you installed Flutter.
  - Select lib > Main.dart from the project navigation window. On the on-screen prompt, select "get dependencies", or run "flutter pub get" from the command line.
- - Select the AVD manager icon (top right - little phone with Android logo) to open the AVD manager. Click "add new device", "pixel 2", and "pie (API 28)". Wait for the pixel 2 device and pie API to download. 
+ - Select the AVD manager icon (top right - little phone with Android logo) to open the AVD manager. Click "add new device", "pixel 2", and "pie (API 28)". Wait for the pixel 2 device and pie API to download.
  - Select the installed Android Virtual Device on the taskbar in Android Studio
  - Run the application with the "run" icon (play button) on the taskbar in Android Studio
 
@@ -30,13 +30,19 @@ the app has two disconnected pages: login and profiles.
 
 ## Functionality
 
-There are currenly two pages in the app.
+There are currently three pages in the app.
 
 ### Login Page
 ![](images/login.png)
 
 ### Profiles Page
 ![](images/profiles.png)
+
+### Home Page
+![](images/bio.png)
+
+Users can navigate the app using the menu.
+![](images/menu.png)
 
 Additionally, the app is linked to the Firebase backend upon start up.
 
