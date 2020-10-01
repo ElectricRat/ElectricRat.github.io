@@ -1,5 +1,11 @@
 # Running Bowfolios milestone 1
 
+# Milestone 2
+- Add menu and navigation.
+- Add page routing
+- Add home page
+- Reconfigure Firebase
+
 ### 1. Download Bowfolios at https://github.com/ElectricRat/SigmaAlphaSierra/
 
 ### 2. Download Android Studio at https://developer.android.com/studio
