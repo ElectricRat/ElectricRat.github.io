@@ -1,4 +1,4 @@
-#Bowfolios - Flutter implementation
+#Bowfolios
 
 ## Milestone 1
 - Create repository
