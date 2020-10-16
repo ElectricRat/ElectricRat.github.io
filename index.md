@@ -48,7 +48,7 @@ There are currently four pages in the app.
 ![](images/bio.png)
 
 ### Add Profile Page
-![](images/addp.png)
+![](images/Capture.png)
 (Unfortunately, added profiles will not be reflected on the Profiles page!)
 
 Users can navigate the app using the menu.
