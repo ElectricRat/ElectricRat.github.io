@@ -1,10 +1,23 @@
-# Running Bowfolios milestone 1
+#Bowfolios - Flutter implementation
 
-# Milestone 2
+## Milestone 1
+- Create repository
+- Add profiles page
+- Setup Firebase
+
+## Milestone 2
 - Add menu and navigation.
 - Add page routing
 - Add home page
 - Reconfigure Firebase
+- Log in and user session
+
+## Milestone 3
+- Add projects page
+- Add interests page
+- Add add-project page
+- Log out button
+
 
 ### 1. Download Bowfolios at https://github.com/ElectricRat/SigmaAlphaSierra/
 
@@ -36,20 +49,26 @@ the app has two disconnected pages: login and profiles.
 
 ## Functionality
 
-There are currently four pages in the app.
+These are the pages implemented in the app.
 
 ### Login Page
 ![](images/login.png)
 
-### Profiles Page
-![](images/profiles.png)
-
 ### Home Page
 ![](images/bio.png)
 
-### Add Profile Page
-![](images/Capture.png)
-(Unfortunately, added profiles will not be reflected on the Profiles page!)
+### Profiles Page
+![](images/profiles.png)
+
+### Interests Page
+![](images/interests.png)
+
+### Projects Page
+![](images/projects.png)
+
+### Add Project Page
+![](images/addproject.png)
+(Unfortunately, added projects will have limited reflection on the add project page!)
 
 Users can navigate the app using the menu.
 ![](images/menu.png)
@@ -58,3 +77,4 @@ Additionally, the app is linked to the Firebase backend upon start up.
 
 ### Firebase
 ![](images/firebase.png)
+Firebase is the database solution for this project.
