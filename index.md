@@ -36,7 +36,7 @@ the app has two disconnected pages: login and profiles.
 
 ## Functionality
 
-There are currently three pages in the app.
+There are currently four pages in the app.
 
 ### Login Page
 ![](images/login.png)
@@ -46,6 +46,10 @@ There are currently three pages in the app.
 
 ### Home Page
 ![](images/bio.png)
+
+### Add Profile Page
+![](images/addp.png)
+(Unfortunately, added profiles will not be reflected on the Profiles page!)
 
 Users can navigate the app using the menu.
 ![](images/menu.png)
